@@ -10,3 +10,8 @@ var annoCorrente = data.getFullYear();
 
 //seconda variazione con punto e virgola
 // document.getElementById('password').innerHTML = nome + ';' + cognome + ';' + colore + ';' + annoCorrente;
+
+var decennio = annoCorrente - 2000;
+
+//terza variazione con decennio
+// document.getElementById('password').innerHTML = nome + ';' + cognome + ';' + colore + ';' + decennio;
